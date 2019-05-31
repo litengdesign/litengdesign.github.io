@@ -21,12 +21,12 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title></title>
       <link>http://example.org/about/</link>
-      <pubDate>Fri, 31 May 2019 16:43:49 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/about/</guid>
-      <description></description>
+      <description>litengdesign.github.io hugo blog</description>
     </item>
     
   </channel>
